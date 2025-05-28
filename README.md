@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janhvi Patriwar</h1>
 <h3 align="center">AI-Enthusiast Python Developer turning data into powerful solutions with Python & innovation.</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janhvi0" alt="janhvi0" /></a> </p>
-
 - 🔭 I’m currently working on **ACEINT by Bootcoding**
 
 - 🌱 I’m currently learning **more about how machines think, learn, and revolutionize the future, one algorithm at a time.**
@@ -27,6 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janhvi0&show_icons=true&locale=en&layout=compact" alt="janhvi0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janhvi0&show_icons=true&locale=en" alt="janhvi0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janhvi0&" alt="janhvi0" /></p>
