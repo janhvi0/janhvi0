@@ -1,5 +1,5 @@
-<h1 align="left">Hello, World!👋 I'm [Janhvi Patriwar](https://www.linkedin.com/in/janhvi-patriwar/)</h1>
-<h3 align="left">AI-Enthusiast Python Developer turning data into powerful solutions with Python & innovation.</h3>
+**Hello, World!👋 I'm [JanhviPatriwar](https://www.linkedin.com/in/janhvi-patriwar/)**
+**AI-Enthusiast Python Developer turning data into powerful solutions with Python & innovation.**
 
 👩‍💻 Welcome to my digital HQ, where ideas meet execution (and a bit of chaos magic).
 
